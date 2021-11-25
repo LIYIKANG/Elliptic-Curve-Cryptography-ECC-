@@ -6,3 +6,5 @@
 
 具体请参考
 https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange
+Velu's formulas
+https://eprint.iacr.org/2011/430.pdf
